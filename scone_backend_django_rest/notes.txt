@@ -1,0 +1,6 @@
+1. Set up endpoints
+    - serializers
+    - views
+    - urls
+
+2. Test endpoints
